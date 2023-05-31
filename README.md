@@ -24,9 +24,6 @@ Program terdiri dari 4 kelas dan 1 fungsi utama, yaitu kelas hunian, apartemen, 
 Ketika pertama kali membuka program, maka user akan ditampilkan halaman landing page. Setelah itu, jika user menekan tombol "Open", maka akan terbuka page beranda yang berisi list daftar hunian. Pada setiap hunian terdapat tombol details, yang mana bila user tekan, akan menampilkan halaman detail dari hunian tersebut. Halaman detail berisi summary, dokumen serta foto dari jenis hunian yang dipilih. Jika user telah selesai melihat salah satu detail hunian, dan ingin melihat detail hunian jenis lain maka user dapat menekan tombol "close" dan user akan kembali ke halaman beranda, serta bisa memilih detail hunian jenis lain yang ingin dilihat. Apabila user telah selesai melihat semua data, maka user dapat menekan tombol close di beranda dan program akan terhenti.
 
 ## Dokumentasi
-- Screenshot menjalankan contoh kode (database) yang dikirim 
-  ![codeRunDB](https://github.com/miakarisma/LP9DPBO2023C2/assets/100817609/5b5fe329-618d-464a-9ca7-9c22b8e1bd87)
-  <br>
 - Landing Page
   <br>
   ![LandingPage](https://github.com/miakarisma/LP9DPBO2023C2/assets/100817609/46c04f9b-9a2b-4059-9bd6-6ea99f1a4272)
